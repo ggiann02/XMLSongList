@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songliststyle.css"?>
+<songList>
+   <coverBand>
+      <bandname>SPIKE THE PUNCH</bandname>
+   </coverBand>
+   <song number="1">
+      <name>Livin on a Prayer</name>
+      <artist>Bon Jovi</artist>
+      <genres>
+         <genre1>Glam Rock</genre1>
+         <genre2>Rock</genre2>
+         <genre3>Arena Rock</genre3>
+      </genres>
+      <year>1986</year>
+   </song>
+   <song number="2">
+      <name>18 and Life</name>
+      <artist>Skid Row</artist>
+      <genres>
+         <genre1>Rock</genre1>
+      </genres>
+      <year>1989</year>
+   </song>
+   <song number="3">
+      <name>School</name>
+      <artist>Supertramp</artist>
+      <genres>
+         <genre1>Folk</genre1>
+         <genre2>Blues</genre2>
+         <genre3>Rock</genre3>
+      </genres>
+      <year>1974</year>
+   </song>
+   <song number="4">
+      <name>Heroes</name>
+      <artist>David Bowie</artist>
+      <genres>
+         <genre1>Rock</genre1>
+         <genre2>Alternative/Indie</genre2>
+      </genres>
+      <year>1977</year>
+   </song>
+   <song number="5">
+      <name>Highway to Hell</name>
+      <artist>AC/DC</artist>
+      <genres>
+         <genre1>Hard Rock</genre1>
+         <genre2>Arena Rock</genre2>
+         <genre3>Metal</genre3>
+         <genre4>Blues Rock</genre4>
+      </genres>
+      <year>1979</year>
+   </song>
+   <song number="6">
+      <name>Stairway To Heaven</name>
+      <artist>Led Zeppelin</artist>
+      <genres>
+         <genre1>Hard Rock</genre1>
+         <genre2>Metal</genre2>
+      </genres>
+      <year>1971</year>
+   </song>
+   <song number="7">
+      <name>(I can't get no) satisfaction</name>
+      <artist>The Rolling Stones</artist>
+      <genres>
+         <genre1>Blues Rock</genre1>
+         <genre2>Hard Rock</genre2>
+      </genres>
+      <year>1965</year>
+   </song>
+   <song number="8">
+      <name>Like a Rolling Stone</name>
+      <artist>Bob Dylan</artist>
+      <genres>
+         <genre1>Folk</genre1>
+      </genres>
+      <year>1965</year>
+   </song>
+   <song number="9">
+      <name>House of the Rising Sun</name>
+      <artist>The Animals</artist>
+      <genres>
+         <genre1>60s Pop</genre1>
+      </genres>
+      <year>1964</year>
+   </song>
+   <song number="10">
+      <name>Come Together</name>
+      <artist>The Beatles</artist>
+      <genres>
+         <genre1>Blues Rock</genre1>
+         <genre2>Alternative/Indie</genre2>
+         <genre3>Folk</genre3>
+         <genre4>Rock</genre4>
+      </genres>
+      <year>1969</year>
+   </song>
+</songList>
